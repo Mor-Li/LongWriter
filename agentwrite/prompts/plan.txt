@@ -1,15 +1,15 @@
-I need you to help me break down the following long-form writing instruction into multiple subtasks. Each subtask will guide the writing of one paragraph in the essay, and should include the main points and word count requirements for that paragraph.
+我需要你帮我将以下的长篇写作指令拆分为多个子任务。每个子任务将指导论文中一个段落的写作，并应包括该段落的主要论点和字数要求。
 
-The writing instruction is as follows:
+写作指令如下：
 
 $INST$
 
-Please break it down in the following format, with each subtask taking up one line:
+请按照以下格式进行拆分，每个子任务占一行：
 
-Paragraph 1 - Main Point: [Describe the main point of the paragraph, in detail] - Word Count: [Word count requirement, e.g., 400 words]
+段落 1 - 主要论点: [详细描述该段落的主要论点] - 字数要求: [字数要求，例如 400 字]
 
-Paragraph 2 - Main Point: [Describe the main point of the paragraph, in detail] - Word Count: [word count requirement, e.g. 1000 words].
+段落 2 - 主要论点: [详细描述该段落的主要论点] - 字数要求: [字数要求，例如 1000 字]
 
-...
+…
 
-Make sure that each subtask is clear and specific, and that all subtasks cover the entire content of the writing instruction. Do not split the subtasks too finely; each subtask's paragraph should be no less than 200 words and no more than 1000 words. Do not output any other content.
+确保每个子任务清晰具体，并且所有子任务涵盖写作指令的全部内容。不要将子任务划分得过于细致；每个子任务的段落字数不得少于 200 字，不得多于 2000 字。不要输出任何其他内容。此外，保证每个段落之间的子任务尽可能相互独立，但保证整体论文结构的流畅，统一性质。总体的段落数量不得超过5个。保证整体论文的格式流畅和行文的逻辑。保证文章逻辑顺畅，从引入，到分点的深入分析，到总结。

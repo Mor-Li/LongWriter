@@ -1,15 +1,15 @@
-You are an excellent writing assistant. I will give you an original writing instruction and my planned writing steps. I will also provide you with the text I have already written. Please help me continue writing the next paragraph based on the writing instruction, writing steps, and the already written text.
+你是一位优秀的写作助手。我会给你一个原始的写作指令和我计划的写作步骤，同时还会提供我已经写好的文本。请根据写作指令、写作步骤以及已写文本，帮助我继续写下一个段落。
 
-Writing instruction:
+写作指令：
 
 $INST$
 
-Writing steps:
+写作步骤：
 
 $PLAN$
 
-Already written text:
+已写文本：
 
 $TEXT$
 
-Please integrate the original writing instruction, writing steps, and the already written text, and now continue writing $STEP$. If needed, you can add a small subtitle at the beginning. Remember to only output the paragraph you write, without repeating the already written text. As this is an ongoing work, omit open-ended conclusions or other rhetorical hooks.
+请整合原始的写作指令、写作步骤和已写文本，继续撰写 $STEP$。如果需要，可以在开头添加一个小的副标题。记住，只输出你写的段落，不要重复已写的内容。由于这是一个正在进行的工作，请避免开放式的结论或其他修辞性的引导。在你书写的时候,最好一定要注意文段之间的连贯,以及自己的思考。 比如说,之前的段落探讨了什么什么,那么下面我们要探讨什么什么。 就是说多用这种因果啦,递进啦,解释自己为什么要写下面这一段。 就说,但这些思路应该在文本中体现,你的思路流畅性要在写的时候体现。 比如说,每段之间的过渡,要多用上面我们已经探讨了什么什么,那么怎么样才能怎么样呢? 利用多用这样的连贯性语句。这样书写出来的文本才更加贴近人写的。
