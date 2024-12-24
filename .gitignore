@@ -3,3 +3,7 @@
 *.idea/
 dataset
 agentwrite/output
+agentwrite/instructions.jsonl
+agentwrite/plan.jsonl
+agentwrite/write_cache.jsonl
+agentwrite/write.jsonl
